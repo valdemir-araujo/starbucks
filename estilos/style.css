@@ -10,6 +10,7 @@ body {
   padding: 20px;
   padding-right: 100px;
   padding-left: 100px;
+  overflow: hidden;
 }
 main {
   width: 100%;
